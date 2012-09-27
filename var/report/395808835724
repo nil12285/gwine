@@ -1,0 +1,13 @@
+a:4:{i:0;s:56:"Mage registry key "_resource_helper/core" already exists";i:1;s:1324:"#0 /var/www/html/gwine/app/Mage.php(223): Mage::throwException('Mage registry k...')
+#1 /var/www/html/gwine/app/Mage.php(564): Mage::register('_resource_helpe...', false)
+#2 /vsventure/magento/app/code/core/Mage/Core/Model/Resource/Db/Collection/Abstract.php(534): Mage::getResourceHelper('core')
+#3 /vsventure/magento/app/code/core/Mage/Core/Model/Resource/Db/Collection/Abstract.php(520): Mage_Core_Model_Resource_Db_Collection_Abstract->_prepareSelect(Object(Varien_Db_Select))
+#4 /var/www/html/gwine/lib/Varien/Data/Collection/Db.php(566): Mage_Core_Model_Resource_Db_Collection_Abstract->getData()
+#5 /vsventure/magento/app/code/core/Mage/Core/Model/Resource/Website/Collection.php(137): Varien_Data_Collection_Db->load(false, false)
+#6 /var/www/html/gwine/lib/Varien/Data/Collection.php(729): Mage_Core_Model_Resource_Website_Collection->load()
+#7 /vsventure/magento/app/code/core/Mage/Core/Model/App.php(634): Varien_Data_Collection->getItemById('0')
+#8 /vsventure/magento/app/code/core/Mage/Core/Model/App.php(466): Mage_Core_Model_App->_initStores()
+#9 /vsventure/magento/app/code/core/Mage/Core/Model/App.php(349): Mage_Core_Model_App->_initCurrentStore('', 'store')
+#10 /var/www/html/gwine/app/Mage.php(685): Mage_Core_Model_App->run(Array)
+#11 /var/www/html/gwine/index.php(88): Mage::run('', 'store')
+#12 {main}";s:3:"url";s:1:"/";s:11:"script_name";s:10:"/index.php";}

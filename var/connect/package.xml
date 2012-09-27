@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package>
+    <name>MagentoClassicFreeTheme</name>
+    <version>1.7.0.2</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/gpl-license.php">GNU General Public License Versions</license>
+    <channel>http://connect20.magentocommerce.com/community/magento_classic_theme_free-1.7.0.2</channel>
+    <extends/>
+    <summary> Magento 1.4 compatable&#xD;
+* CSS3 Powered!&#xD;
+* Easy color changes&#xD;
+* Easy to upgrade, easy to customise&#xD;
+* Supports all main browsers (IE6,IE7,IE8,FF2,FF3,Opera,Safari&#xD;
+* Free updates included</summary>
+    <description> Magento 1.4 compatable&#xD;
+* CSS3 Powered!&#xD;
+* Easy color changes&#xD;
+* Easy to upgrade, easy to customise&#xD;
+* Supports all main browsers (IE6,IE7,IE8,FF2,FF3,Opera,Safari&#xD;
+* Free updates included</description>
+    <notes>Magento Classic Free Theme&#xD;
+2012-08-13 11:08:43&#xD;
+Version number: 1.7.0.2 Stability: Stable Compatibility: 1.7</notes>
+    <authors><author><name>TemplatesMaster</name><user>TemplatesMaster</user><email>TemplatesMaster@magento.com</email></author></authors>
+    <date>2012-09-04</date>
+    <time>05:19:48</time>
+    <contents></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.3</min><max>5.3.8</max></php></required></dependencies>
+</package>

@@ -1,0 +1,88 @@
+<_>
+   <form_key>2rcrAUnhIVdVePqj</form_key>
+   <_create/>
+   <name>MagentoClassicFreeTheme</name>
+   <channel>http://connect20.magentocommerce.com/community/magento_classic_theme_free-1.7.0.2</channel>
+   <version_ids>
+      <version_ids>2</version_ids>
+   </version_ids>
+   <summary> Magento 1.4 compatable
+* CSS3 Powered!
+* Easy color changes
+* Easy to upgrade, easy to customise
+* Supports all main browsers (IE6,IE7,IE8,FF2,FF3,Opera,Safari
+* Free updates included</summary>
+   <description> Magento 1.4 compatable
+* CSS3 Powered!
+* Easy color changes
+* Easy to upgrade, easy to customise
+* Supports all main browsers (IE6,IE7,IE8,FF2,FF3,Opera,Safari
+* Free updates included</description>
+   <license>GNU General Public License Versions</license>
+   <license_uri>http://opensource.org/licenses/gpl-license.php</license_uri>
+   <version>1.7.0.2</version>
+   <stability>stable</stability>
+   <notes>Magento Classic Free Theme
+2012-08-13 11:08:43
+Version number: 1.7.0.2 Stability: Stable Compatibility: 1.7</notes>
+   <authors>
+      <name>
+         <name>TemplatesMaster</name>
+      </name>
+      <user>
+         <user>TemplatesMaster</user>
+      </user>
+      <email>
+         <email>TemplatesMaster@magento.com</email>
+      </email>
+   </authors>
+   <depends_php_min>5.2.3</depends_php_min>
+   <depends_php_max>5.3.8</depends_php_max>
+   <depends>
+      <package>
+         <name>
+            <name/>
+         </name>
+         <channel>
+            <channel/>
+         </channel>
+         <min>
+            <min/>
+         </min>
+         <max>
+            <max/>
+         </max>
+         <files>
+            <files>      </files>
+         </files>
+      </package>
+      <extension>
+         <name>
+            <name>Core</name>
+         </name>
+         <min>
+            <min/>
+         </min>
+         <max>
+            <max/>
+         </max>
+      </extension>
+   </depends>
+   <contents>
+      <target>
+         <target>magelocal</target>
+      </target>
+      <path>
+         <path/>
+      </path>
+      <type>
+         <type>file</type>
+      </type>
+      <include>
+         <include/>
+      </include>
+      <ignore>
+         <ignore/>
+      </ignore>
+   </contents>
+</_>

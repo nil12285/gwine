@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Magento
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Academic Free License (AFL 3.0)
+ * that is bundled with this package in the file LICENSE_AFL.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/afl-3.0.php
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@magentocommerce.com so we can send you a copy immediately.
+ *
+ * @category    Sample
+ * @package     Sample_ProductBlock
+ * @copyright   Copyright (c) 2009 Irubin Consulting Inc. DBA Varien (http://www.varien.com)
+ * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ */
+ <widgetone_twitter type="widgetone/twitter" translate="name description" module="widgetone">
+        <name>Bookmark: Twitter</name>
+        <description type="desc">Adds a simple "Tweet This!" link</description>
+    </widgetone_twitter>
+-->
+<widgets>        
+    <productblock_new type="productblock/new" translate="name description" module="productblock">
+        <name>Custom : Product Block View</name>
+        <description type="desc">New Product Widget for content block</description>
+        <parameters>
+            <Title>
+                <required>1</required>
+                <visible>1</visible>
+                <value>New Products</value>
+                <label>Title</label>
+                <type>text</type>                
+            </Title>
+            <products_count translate="label">
+                <required>1</required>
+                <visible>1</visible>
+                <value>8</value>
+                <label>Number of Products to Display</label>
+                <type>text</type>
+            </products_count>
+            <template>
+                <required>1</required>
+                <visible>0</visible>
+                <value>productblock/block.phtml</value>
+                <label>Template</label>
+                <type>text</type>                
+            </template>
+            <columns>
+                <required>1</required>
+                <visible>1</visible>
+                <value>4</value>
+                <label>Number of columns</label>
+                <type>text</type>                
+            </columns>
+            <add_to_link>
+                <required>0</required>
+                <visible>1</visible>
+                <type>select</type>
+                <values>
+                    <value_no translate="label">
+                        <value>0</value>
+                        <label>no</label>
+                    </value_no>
+                    <value_yes translate="label">
+                        <value>1</value>
+                        <label>yes</label>
+                    </value_yes>
+                </values>                
+                <label>Show Add to links</label>                                
+            </add_to_link>
+            <!--
+            <cache_lifetime translate="label description">
+                <label>Cache Lifetime (Seconds)</label>
+                <description>86400 by default, if not set. To refresh instantly, Clear the Blocks HTML Output Cache.</description>
+                <visible>1</visible>
+                <type>text</type>
+            </cache_lifetime>
+            -->
+        </parameters>
+    </productblock_new> 
+</widgets>
+        
