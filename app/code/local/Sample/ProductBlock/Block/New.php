@@ -41,31 +41,32 @@ class Sample_ProductBlock_Block_New extends Mage_Catalog_Block_Product_New imple
      * @return string
      */
     protected function _toHtml()
-    {
+    { 
+        $productIds = Mage::getModel('productblock/featuredcatalogproduct')->getCollection();
+        
         $columns = $this->getData('columns');
         $title = $this->getData('Title');
         $_add_to_link = $this->getData('add_to_link');        
         $products_count = ($this->getData('products_count'))? $this->getData('products_count') : parent::getProductsCount();
         
-        $collection = Mage::getResourceModel('catalog/product_collection');
-        $collection->setVisibility(Mage::getSingleton('catalog/product_visibility')->getVisibleInCatalogIds());
+        //$product = Mage::getModel('catalog/product');
+        $pIds = array();        
+        foreach($productIds as $pId){            
+            $pIds[] = $pId->getEntityId();
+        }
+        $collection =  Mage::getModel('catalog/product')
+                                ->getCollection()
+                                ->addAttributeToSelect('*')
+                                //->addFieldToFilter('status', 1)
+                                //->addFieldToFilter('visibility', 4)
+                                ->addFieldToFilter('entity_id', array('in'=>$pIds));
+                                //->getSelect()
         
-        $collection = $this->_addProductAttributesAndPrices($collection)
-            ->addStoreFilter()
-            ->addAttributeToSort('updated_at', 'desc')
-            ->setPageSize($products_count)
-            ->setCurPage(1);
-        
-        //printr($collection);
         $this->assign('_columnCount',$columns);
         $this->assign('_title',$title);
         $this->assign('_add_to_link',$_add_to_link);
         $this->assign('_products',$collection);
         return parent::_toHtml();
-        
-        #return '<a class="digg" href="http://www.digg.com/submit?url='
-        #    . $this->getUrl('*/*/*', array('_current' => true, '_use_rewrite' => true))
-        #    . '&amp;phase=2" title="You Digg?">You Digg?</a>';
     }
 
 }

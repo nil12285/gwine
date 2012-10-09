@@ -26,6 +26,41 @@
         </Sample_ProductBlock>
     </modules>
     <global>
+        <models>
+			<productblock>
+				<!-- Init model for productblock module -->
+				<class>Sample_ProductBlock_Model</class>
+				<!-- Init db config handler for productblock models -->
+				<resourceModel>productblock_resource</resourceModel>
+			</productblock>
+			
+			<!-- declaring model vs db table relation -->
+            <productblock_resource>
+                <class>Sample_ProductBlock_Model_Resource</class>
+				<!-- declate table featured_catalog_product --> 
+                <entities>
+                    <featuredcatalogproduct>
+                        <table>featured_catalog_product</table>
+                    </featuredcatalogproduct>
+                </entities>
+                
+            </productblock_resource>
+        </models>
+        <!-- Setup db read & write connection for Productblock module -->
+		<resources>
+			<!-- db write connection -->
+			<productblock_write>
+				<connection>
+					<use>core_write</use>
+				</connection>
+			</productblock_write>
+			<!-- db read connection -->
+			<productblock_read>
+				<connection>
+					<use>core_read</use>
+				</connection>
+			</productblock_read>
+		</resources>
         <helpers>
             <productblock>
                 <class>Sample_ProductBlock_Helper</class>
