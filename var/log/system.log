@@ -168,3 +168,52 @@
 2012-09-14T02:14:57+00:00 ERR (3): Warning: simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]: Entity: line 87: parser error : Opening and ending tag mismatch: mysqli line 83 and pdo_mysqli  in /var/www/html/gwine/lib/Varien/Simplexml/Config.php on line 510
 2012-09-14T02:14:57+00:00 ERR (3): Warning: simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]:                     &lt;/pdo_mysqli&gt;  in /var/www/html/gwine/lib/Varien/Simplexml/Config.php on line 510
 2012-09-14T02:14:57+00:00 ERR (3): Warning: simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]:                                  ^  in /var/www/html/gwine/lib/Varien/Simplexml/Config.php on line 510
+2012-10-02T02:48:37+00:00 ERR (3): Warning: include(Sample/ProductBlock/Model/Featuredcatalogproduct.php): failed to open stream: No such file or directory  in /var/www/html/gwine/lib/Varien/Autoload.php on line 93
+2012-10-02T02:48:37+00:00 ERR (3): Warning: include(): Failed opening 'Sample/ProductBlock/Model/Featuredcatalogproduct.php' for inclusion (include_path='/var/www/html/gwine/app/code/local:/var/www/html/gwine/app/code/community:/var/www/html/gwine/app/code/core:/var/www/html/gwine/lib:.:/usr/share/pear:/usr/share/php')  in /var/www/html/gwine/lib/Varien/Autoload.php on line 93
+2012-10-02T02:48:37+00:00 ERR (3): Warning: get_class() expects parameter 1 to be object, boolean given  in /var/www/html/gwine/app/code/local/Sample/ProductBlock/Block/New.php on line 46
+2012-10-02T02:55:26+00:00 ERR (3): Warning: include(Sample/ProductBlock/Model/Featuredcatalogproduct.php): failed to open stream: No such file or directory  in /var/www/html/gwine/lib/Varien/Autoload.php on line 93
+2012-10-02T02:55:26+00:00 ERR (3): Warning: include(): Failed opening 'Sample/ProductBlock/Model/Featuredcatalogproduct.php' for inclusion (include_path='/var/www/html/gwine/app/code/local:/var/www/html/gwine/app/code/community:/var/www/html/gwine/app/code/core:/var/www/html/gwine/lib:.:/usr/share/pear:/usr/share/php')  in /var/www/html/gwine/lib/Varien/Autoload.php on line 93
+2012-10-02T02:55:26+00:00 ERR (3): Warning: get_class() expects parameter 1 to be object, boolean given  in /var/www/html/gwine/app/code/local/Sample/ProductBlock/Block/New.php on line 46
+2012-10-02T02:55:29+00:00 ERR (3): Warning: include(Sample/ProductBlock/Model/Featuredcatalogproduct.php): failed to open stream: No such file or directory  in /var/www/html/gwine/lib/Varien/Autoload.php on line 93
+2012-10-02T02:55:29+00:00 ERR (3): Warning: include(): Failed opening 'Sample/ProductBlock/Model/Featuredcatalogproduct.php' for inclusion (include_path='/var/www/html/gwine/app/code/local:/var/www/html/gwine/app/code/community:/var/www/html/gwine/app/code/core:/var/www/html/gwine/lib:.:/usr/share/pear:/usr/share/php')  in /var/www/html/gwine/lib/Varien/Autoload.php on line 93
+2012-10-02T02:55:29+00:00 ERR (3): Warning: get_class() expects parameter 1 to be object, boolean given  in /var/www/html/gwine/app/code/local/Sample/ProductBlock/Block/New.php on line 46
+2012-10-02T03:04:03+00:00 ERR (3): Warning: include(Sample/ProductBlock/Model/Featuredcatalogproduct.php): failed to open stream: No such file or directory  in /var/www/html/gwine/lib/Varien/Autoload.php on line 93
+2012-10-02T03:04:03+00:00 ERR (3): Warning: include(): Failed opening 'Sample/ProductBlock/Model/Featuredcatalogproduct.php' for inclusion (include_path='/var/www/html/gwine/app/code/local:/var/www/html/gwine/app/code/community:/var/www/html/gwine/app/code/core:/var/www/html/gwine/lib:.:/usr/share/pear:/usr/share/php')  in /var/www/html/gwine/lib/Varien/Autoload.php on line 93
+2012-10-02T03:13:38+00:00 ERR (3): Warning: include(Sample/ProductBlock/Model/Featuredcatalogproduct.php): failed to open stream: No such file or directory  in /var/www/html/gwine/lib/Varien/Autoload.php on line 93
+2012-10-02T03:13:38+00:00 ERR (3): Warning: include(): Failed opening 'Sample/ProductBlock/Model/Featuredcatalogproduct.php' for inclusion (include_path='/var/www/html/gwine/app/code/local:/var/www/html/gwine/app/code/community:/var/www/html/gwine/app/code/core:/var/www/html/gwine/lib:.:/usr/share/pear:/usr/share/php')  in /var/www/html/gwine/lib/Varien/Autoload.php on line 93
+2012-10-02T03:13:38+00:00 ERR (3): Warning: include(Sample/ProductBlock/Model/Featuredcatalogproduct.php): failed to open stream: No such file or directory  in /var/www/html/gwine/lib/Varien/Autoload.php on line 93
+2012-10-02T03:13:38+00:00 ERR (3): Warning: include(): Failed opening 'Sample/ProductBlock/Model/Featuredcatalogproduct.php' for inclusion (include_path='/var/www/html/gwine/app/code/local:/var/www/html/gwine/app/code/community:/var/www/html/gwine/app/code/core:/var/www/html/gwine/lib:.:/usr/share/pear:/usr/share/php')  in /var/www/html/gwine/lib/Varien/Autoload.php on line 93
+2012-10-10T02:22:06+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/html/gwine/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/html/gwine/lib/Zend/Controller/Response/Abstract.php:766
+[2] /var/www/html/gwine/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /var/www/html/gwine/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /var/www/html/gwine/app/code/core/Mage/Core/Model/App.php:354
+[5] /var/www/html/gwine/app/Mage.php:685
+[6] /var/www/html/gwine/index.php:88
+</pre>
+2012-10-11T02:50:55+00:00 DEBUG (7): SMTPPro is enabled, sending email in Aschroder_SMTPPro_Model_Email_Template
+2012-10-11T02:50:55+00:00 DEBUG (7): ReplyToStoreEmail is enabled, just set Reply-To header: auto-confirm@giantwineandliquor.com
+2012-10-11T02:50:55+00:00 DEBUG (7): Preparing the SMTP Email transport, details are: \n   username=team@giantwineandliquor.com
+  password=MASKED
+  host=smtp.gmail.com
+  port=587
+  ssl=tls
+  auth=login
+
+2012-10-11T02:50:55+00:00 DEBUG (7): Returning transport
+2012-10-11T02:50:55+00:00 DEBUG (7): About to send email
+2012-10-11T02:50:59+00:00 DEBUG (7): Finished sending email
+2012-10-11T02:51:00+00:00 DEBUG (7): template=3
+2012-10-11T03:06:53+00:00 DEBUG (7): SMTPPro is enabled, sending email in Aschroder_SMTPPro_Model_Email_Template
+2012-10-11T03:06:54+00:00 DEBUG (7): ReplyToStoreEmail is enabled, just set Reply-To header: auto-confirm@giantwineandliquor.com
+2012-10-11T03:06:54+00:00 DEBUG (7): Preparing the SMTP Email transport, details are: \n   username=team@giantwineandliquor.com
+  password=MASKED
+  host=smtp.gmail.com
+  port=587
+  ssl=tls
+  auth=login
+
+2012-10-11T03:06:54+00:00 DEBUG (7): Returning transport
+2012-10-11T03:06:54+00:00 DEBUG (7): About to send email
+2012-10-11T03:06:56+00:00 DEBUG (7): Finished sending email
+2012-10-11T03:06:56+00:00 DEBUG (7): template=3
