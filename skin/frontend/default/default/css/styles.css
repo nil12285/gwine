@@ -533,7 +533,7 @@ tr.summary-details-excluded { font-style:italic; }
 .links li.last { background:none !important; padding-right:0 !important; }
 
 .link-cart { color:#dc6809 !important; font-weight:bold; }
-.link-wishlist { color:#dc6809 !important; font-weight:bold; }
+.link-wishlist { color:#dc6809 !important; font-weight:bold; display: table; }
 .link-reorder { font-weight:bold; color:#dc6809 !important; }
 .link-compare { font-weight:bold; }
 .link-print { /*background:url(../images/i_print.gif) 0 2px no-repeat; padding:2px 0 2px 25px;*/ font-weight:bold; color:#dc6809; }
@@ -906,6 +906,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc66cc', end
     width: 135px;
 }
 .products-grid .product-name { /*min-height:2.7em;*/ margin:0 0 5px; font-weight:bold; font-size:13px; color:#203548; }
+.products-grid h2.product-name {height:50px;}
 .products-grid .product-name a { color:#203548; }
 .products-grid .price-box { margin:5px 0; }
 .products-grid .availability { line-height:21px; }
@@ -1004,8 +1005,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc66cc', end
 
 /* Special price */
 .special-price { margin:0; padding:1px 0; }
-.special-price .price-label { font-size:13px; font-weight:bold; white-space:nowrap; color:#cd5033; }
-.special-price .price { color: #C76200; float: right; font-size: 13px; font-weight: bold; margin-right: 5px; }
+.special-price .price-label { font-size:12px; font-weight:bold; white-space:nowrap; color:#cd5033; }
+.special-price .price { color: #C76200; float: right; font-size: 12px; font-weight: bold; margin-right: 5px; }
 
 /* Minimal price (as low as) */
 .minimal-price { margin:0; }
