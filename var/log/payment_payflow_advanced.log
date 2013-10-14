@@ -1,0 +1,2520 @@
+2012-10-05T20:59:42+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 7d7753082437f51ea8a3c9f47a53c171
+            [trxtype] => S
+            [amt] => 23.99
+            [currency] => USD
+            [invnum] => 100000009
+            [custref] => 100000009
+            [ponum] => 9
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 89e1ed59ab94c65531bfd5e2bd6eed95
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 1smFmhhGBwUKxAidtOJvDwQ5m
+            [securetokenid] => 7d7753082437f51ea8a3c9f47a53c171
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23119
+)
+
+2012-10-05T21:00:45+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => a8c116fed122d6181efab412869140d9
+            [trxtype] => S
+            [amt] => 23.99
+            [currency] => USD
+            [invnum] => 100000010
+            [custref] => 100000010
+            [ponum] => 10
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => b460df261b1218893f2d76398c4b222d
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 75gZeXGZ6iEaaGQbAoDqt6wpG
+            [securetokenid] => a8c116fed122d6181efab412869140d9
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23415
+)
+
+2012-10-05T21:05:08+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => a92c917d6f69eb1ede6da6971f404f67
+            [trxtype] => S
+            [amt] => 23.99
+            [currency] => USD
+            [invnum] => 100000011
+            [custref] => 100000011
+            [ponum] => 11
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => d54e0d753fa9f4162c5af64ffdd56a5f
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 7qr9N5idW8EmmFlT0ckymNAgw
+            [securetokenid] => a92c917d6f69eb1ede6da6971f404f67
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23416
+)
+
+2012-10-05T21:19:42+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 870fc9529284b23af4f21625c2961414
+            [trxtype] => S
+            [amt] => 23.99
+            [currency] => USD
+            [invnum] => 100000012
+            [custref] => 100000012
+            [ponum] => 12
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 8b8cfd4e9bcc64387bde85043f7c00d2
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 1qiVpruAty0SugvL1uMFWdAiz
+            [securetokenid] => 870fc9529284b23af4f21625c2961414
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23119
+)
+
+2012-10-05T21:24:10+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 05d5bcbe4d58c8a7d4730f04875c90b2
+            [trxtype] => S
+            [amt] => 23.99
+            [currency] => USD
+            [invnum] => 100000013
+            [custref] => 100000013
+            [ponum] => 13
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 88048f76a92ef868b77cf9d851d5e856
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 10vyLDWjwKk23KdbDS5BurQtJ
+            [securetokenid] => 05d5bcbe4d58c8a7d4730f04875c90b2
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23119
+)
+
+2012-10-05T22:10:36+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => e01a8f2c4d725de5c2b919a599411edc
+            [trxtype] => S
+            [amt] => 25.56
+            [currency] => USD
+            [invnum] => 100000015
+            [custref] => 100000015
+            [ponum] => 15
+            [firstname] => test
+            [lastname] => testing
+            [street] => 123 main st
+            [city] => beverly hills
+            [state] => CA
+            [zip] => 90210
+            [country] => US
+            [email] => test@testing.com
+            [shiptofirstname] => test
+            [shiptolastname] => testing
+            [shiptostreet] => 123 main st
+            [shiptocity] => beverly hills
+            [shiptostate] => CA
+            [shiptozip] => 90210
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 818c2b5726cfe51aecc256ab34c76dc6
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 7fFPA4mXuDkC0a0P8avuYzg6m
+            [securetokenid] => e01a8f2c4d725de5c2b919a599411edc
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23115
+)
+
+2012-10-05T22:25:38+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 89cdc917ef4148e8c650e6108fe5c902
+            [trxtype] => S
+            [amt] => 25.56
+            [currency] => USD
+            [invnum] => 100000016
+            [custref] => 100000016
+            [ponum] => 16
+            [firstname] => test
+            [lastname] => testing
+            [street] => 123 main st
+            [city] => beverly hills
+            [state] => CA
+            [zip] => 90210
+            [country] => US
+            [email] => test@testing.com
+            [shiptofirstname] => test
+            [shiptolastname] => testing
+            [shiptostreet] => 123 main st
+            [shiptocity] => beverly hills
+            [shiptostate] => CA
+            [shiptozip] => 90210
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => dcf147626970efdef131f21679801251
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 1FadcNSoedU6tFmaEkqMiGQFV
+            [securetokenid] => 89cdc917ef4148e8c650e6108fe5c902
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23116
+)
+
+2012-10-05T22:26:33+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => d3e3c5fca4f166975832ec0c60d0efd3
+            [trxtype] => S
+            [amt] => 23.99
+            [currency] => USD
+            [invnum] => 100000017
+            [custref] => 100000017
+            [ponum] => 17
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 1b2d8b2e42c1e9f681e4add2bc818e04
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 7tdXr9eeRDkCcY6MSxGeR0AvM
+            [securetokenid] => d3e3c5fca4f166975832ec0c60d0efd3
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23416
+)
+
+2012-10-05T22:27:34+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 7af657cd13fc3f191e6be334c161c0b2
+            [trxtype] => S
+            [amt] => 25.56
+            [currency] => USD
+            [invnum] => 100000018
+            [custref] => 100000018
+            [ponum] => 18
+            [firstname] => test
+            [lastname] => testing
+            [street] => 123 main st
+            [city] => beverly hills
+            [state] => CA
+            [zip] => 90210
+            [country] => US
+            [email] => test@testing.com
+            [shiptofirstname] => test
+            [shiptolastname] => testing
+            [shiptostreet] => 123 main st
+            [shiptocity] => beverly hills
+            [shiptostate] => CA
+            [shiptozip] => 90210
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 76fd4283f0cfe68ea391bcd6fe25c4fa
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 1izwH1A66mkKLQCGBevcuOAM2
+            [securetokenid] => 7af657cd13fc3f191e6be334c161c0b2
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23118
+)
+
+2012-10-05T22:28:55+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 20dbbde2c62044ebfc3bb2457dd8bc80
+            [trxtype] => S
+            [amt] => 25.56
+            [currency] => USD
+            [invnum] => 100000019
+            [custref] => 100000019
+            [ponum] => 19
+            [firstname] => test
+            [lastname] => testing
+            [street] => 123 main st
+            [city] => beverly hills
+            [state] => CA
+            [zip] => 90210
+            [country] => US
+            [email] => test@testing.com
+            [shiptofirstname] => test
+            [shiptolastname] => testing
+            [shiptostreet] => 123 main st
+            [shiptocity] => beverly hills
+            [shiptostate] => CA
+            [shiptozip] => 90210
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 21f0dd4f27a40d01801bc639e6db804a
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 1lAFPiibTYUGdtgYapeFGgw5m
+            [securetokenid] => 20dbbde2c62044ebfc3bb2457dd8bc80
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23117
+)
+
+2012-10-05T22:34:37+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => e3f0715ae1f5e0fbb5e95637f8028047
+            [trxtype] => S
+            [amt] => 23.99
+            [currency] => USD
+            [invnum] => 100000020
+            [custref] => 100000020
+            [ponum] => 20
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 5bddd4c3d8dba40007bcd4ed7c2c6f6e
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 7tE34puGvREOmjWnOBDwhOg0g
+            [securetokenid] => e3f0715ae1f5e0fbb5e95637f8028047
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23119
+)
+
+2012-10-05T22:34:57+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 3b6b36949c16e0a4e6d42585cb04870a
+            [trxtype] => S
+            [amt] => 25.56
+            [currency] => USD
+            [invnum] => 100000021
+            [custref] => 100000021
+            [ponum] => 21
+            [firstname] => test
+            [lastname] => testing
+            [street] => 123 main st
+            [city] => beverly hills
+            [state] => CA
+            [zip] => 90210
+            [country] => US
+            [email] => test@testing.com
+            [shiptofirstname] => test
+            [shiptolastname] => testing
+            [shiptostreet] => 123 main st
+            [shiptocity] => beverly hills
+            [shiptostate] => CA
+            [shiptozip] => 90210
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => e0c7fc55cdf8c9a2520d7f3b1d9c4bf8
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 7g7OzY2ZKuESbXqqrmUkRwA6n
+            [securetokenid] => 3b6b36949c16e0a4e6d42585cb04870a
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23117
+)
+
+2012-10-05T22:53:34+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 7ee26562bd44a10723befdccbb5a9b55
+            [trxtype] => S
+            [amt] => 23.99
+            [currency] => USD
+            [invnum] => 100000022
+            [custref] => 100000022
+            [ponum] => 22
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 25961518582eb60e83411813a7ca3ae2
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 7DBy6MRhWSEG4hYbg69ix3gWc
+            [securetokenid] => 7ee26562bd44a10723befdccbb5a9b55
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23116
+)
+
+2012-10-06T00:06:06+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 8674a54d3ae6b587281f2728b435d10a
+            [trxtype] => S
+            [amt] => 47.98
+            [currency] => USD
+            [invnum] => 100000023
+            [custref] => 100000023
+            [ponum] => 23
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => b74788a2c0886fc7e4311059009a3d61
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 1IikZIGligEa3ldjEGAWg5QAR
+            [securetokenid] => 8674a54d3ae6b587281f2728b435d10a
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23117
+)
+
+2012-10-06T02:06:09+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 69a090abd514633f796a5395e777e3f5
+            [trxtype] => S
+            [amt] => 71.97
+            [currency] => USD
+            [invnum] => 100000024
+            [custref] => 100000024
+            [ponum] => 24
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => c35d2da8d24fc6ce4d32ea92bb4f820b
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 1bEXZN7uzWUC0vGQmY07Psw2i
+            [securetokenid] => 69a090abd514633f796a5395e777e3f5
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23116
+)
+
+2012-10-06T02:10:01+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => ef796722bf2b0738699bb3970d814e97
+            [trxtype] => S
+            [amt] => 23.99
+            [currency] => USD
+            [invnum] => 100000025
+            [custref] => 100000025
+            [ponum] => 25
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 5c68a4b37554a1b9650b9adbb606e6eb
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 7tmOM2A62jk6LV2lpousXpwfw
+            [securetokenid] => ef796722bf2b0738699bb3970d814e97
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23119
+)
+
+2012-10-08T00:11:37+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 2afa7734a0e200d9ebaec228dc7f85ce
+            [trxtype] => S
+            [amt] => 23.99
+            [currency] => USD
+            [invnum] => 100000026
+            [custref] => 100000026
+            [ponum] => 26
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 9443bbd86231b0c2768605b605018a81
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 7vh3gNcWKBkuBInUlJXKKyQN3
+            [securetokenid] => 2afa7734a0e200d9ebaec228dc7f85ce
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23115
+)
+
+2012-10-08T02:16:13+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => e1b909bbe90fd58d3c0135f5a6d5f4fb
+            [trxtype] => S
+            [amt] => 23.99
+            [currency] => USD
+            [invnum] => 100000028
+            [custref] => 100000028
+            [ponum] => 28
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => c5e698e14e4cacf62fe4f7d4fc2dd8d3
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 75RKsHUwzfkOsefIbRoAFUQ2j
+            [securetokenid] => e1b909bbe90fd58d3c0135f5a6d5f4fb
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23416
+)
+
+2012-10-08T02:18:53+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => b5ec860b448caf851916b06444bb5bb2
+            [trxtype] => S
+            [amt] => 23.99
+            [currency] => USD
+            [invnum] => 100000029
+            [custref] => 100000029
+            [ponum] => 29
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 1f62dca3ab4d6e08efd20d933efb6930
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 1XQ8XNd6tAUyFT35LONuapAtJ
+            [securetokenid] => b5ec860b448caf851916b06444bb5bb2
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23416
+)
+
+2012-10-08T02:24:57+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => d522732a021a3dabb2481435a0a8aef0
+            [trxtype] => S
+            [amt] => 23.99
+            [currency] => USD
+            [invnum] => 100000030
+            [custref] => 100000030
+            [ponum] => 30
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 03b13c85238d9a0c186dd49a124aafa2
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 1xNNMvbC35U2Kbm95zhduAQDU
+            [securetokenid] => d522732a021a3dabb2481435a0a8aef0
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23116
+)
+
+2012-10-08T03:03:00+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 0d0ef1ef9b5c47a612eb312752f78148
+            [trxtype] => S
+            [amt] => 23.99
+            [currency] => USD
+            [invnum] => 100000031
+            [custref] => 100000031
+            [ponum] => 31
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => cd537cb64341a44138a5080caf253616
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 1G0srpwXBWE2pDpAmisfsIgT9
+            [securetokenid] => 0d0ef1ef9b5c47a612eb312752f78148
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23119
+)
+
+2012-10-08T03:05:03+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => ee3fafb432758ca0915459f75a4b363b
+            [trxtype] => S
+            [amt] => 23.99
+            [currency] => USD
+            [invnum] => 100000032
+            [custref] => 100000032
+            [ponum] => 32
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 359c783fba9e139ec1e9cc684a6202e8
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 7nFZzEEuHNEWBSLyy8muRxQmD
+            [securetokenid] => ee3fafb432758ca0915459f75a4b363b
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23415
+)
+
+2012-10-08T03:06:43+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 311d2d079705077bf2703c79f6d0d3d4
+            [trxtype] => S
+            [amt] => 23.99
+            [currency] => USD
+            [invnum] => 100000033
+            [custref] => 100000033
+            [ponum] => 33
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 408f255b1ebd18dbf26b668fddbf99fd
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 7ubpCqwUWm0aColNeluHnCQAQ
+            [securetokenid] => 311d2d079705077bf2703c79f6d0d3d4
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 23118
+)
+
+2012-10-08T03:12:22+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => eea82f2741a62466312386f2c5ead49f
+            [trxtype] => S
+            [amt] => 23.99
+            [currency] => USD
+            [invnum] => 100000034
+            [custref] => 100000034
+            [ponum] => 34
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => f8a02687c9683a52bf2296160eab3122
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 7NqbD1c9wrUiQacXmf8HPkQuK
+            [securetokenid] => eea82f2741a62466312386f2c5ead49f
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 2989
+)
+
+2012-10-08T03:15:28+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 89d5cde51b3fd264c3c61d8460993cb7
+            [trxtype] => S
+            [amt] => 23.99
+            [currency] => USD
+            [invnum] => 100000035
+            [custref] => 100000035
+            [ponum] => 35
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 5b935a798dd9086ea9cd0518768fdd76
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 7IO231cvLOUijQsjOMP9XKghy
+            [securetokenid] => 89d5cde51b3fd264c3c61d8460993cb7
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 2993
+)
+
+2012-10-08T03:18:57+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 0bd7d27d731f4d3094f4971b1aadb823
+            [trxtype] => S
+            [amt] => 23.99
+            [currency] => USD
+            [invnum] => 100000036
+            [custref] => 100000036
+            [ponum] => 36
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => bbff8cb051c34a7a724c16be9277611e
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 7vfummvXGzUitB80iuAFpwQiy
+            [securetokenid] => 0bd7d27d731f4d3094f4971b1aadb823
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 2988
+)
+
+2012-10-08T03:22:07+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => df6dfacfeafa73da456c3424c940e526
+            [trxtype] => S
+            [amt] => 23.99
+            [currency] => USD
+            [invnum] => 100000037
+            [custref] => 100000037
+            [ponum] => 37
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => cb929599906f932810e94be9341f9dcf
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 1qOu2Tmrom0mQdU8wPezbzAiz
+            [securetokenid] => df6dfacfeafa73da456c3424c940e526
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 2987
+)
+
+2012-10-08T03:30:19+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => cc14ba2a846f255ea4a4bff162418383
+            [trxtype] => S
+            [amt] => 23.99
+            [currency] => USD
+            [invnum] => 100000038
+            [custref] => 100000038
+            [ponum] => 38
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 754379235644a52e62b2ddcde7e2ace8
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 7ZDQr7fUgwEK9FsksRpKEAQaq
+            [securetokenid] => cc14ba2a846f255ea4a4bff162418383
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 2988
+)
+
+2012-10-09T00:24:38+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 7a0bc7d23e135c13974f417af413a8bd
+            [trxtype] => S
+            [amt] => 57.99
+            [currency] => USD
+            [invnum] => 100000039
+            [custref] => 100000039
+            [ponum] => 39
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 2e22542b3bddd17dad4681c21614914a
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 1mRpROTwUoU69iMXQWUyL3g1i
+            [securetokenid] => 7a0bc7d23e135c13974f417af413a8bd
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 3031
+)
+
+2012-10-09T00:31:02+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => fb67365f388ffe4a7f49cfcc0eddbdde
+            [trxtype] => S
+            [amt] => 57.99
+            [currency] => USD
+            [invnum] => 100000040
+            [custref] => 100000040
+            [ponum] => 40
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 7b22cd4f871c2395c3b421ed3d080320
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 1g9keCMjhzkOiHyYSCkY6MQfw
+            [securetokenid] => fb67365f388ffe4a7f49cfcc0eddbdde
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 2993
+)
+
+2012-10-09T00:39:21+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => e9d6ec82e6bfb1d4363c8a2ec7fac79b
+            [trxtype] => S
+            [amt] => 57.99
+            [currency] => USD
+            [invnum] => 100000041
+            [custref] => 100000041
+            [ponum] => 41
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => eae1ca3a5a27519bc7bc662df6e3a2cb
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 7kf5Z8GaVJEakS7pyL02tbQxN
+            [securetokenid] => e9d6ec82e6bfb1d4363c8a2ec7fac79b
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 2989
+)
+
+2012-10-09T01:40:20+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => afb86982a3ccdf51372242764e7bbca1
+            [trxtype] => S
+            [amt] => 57.99
+            [currency] => USD
+            [invnum] => 100000042
+            [custref] => 100000042
+            [ponum] => 42
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 39648adbf045211b1b1dc56188db139b
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 7Q6hntjb06U2rNATpdVTUDAfw
+            [securetokenid] => afb86982a3ccdf51372242764e7bbca1
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 2991
+)
+
+2012-10-09T01:41:52+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => e4e849af1c2d08b4e5899961928e5a80
+            [trxtype] => S
+            [amt] => 57.99
+            [currency] => USD
+            [invnum] => 100000043
+            [custref] => 100000043
+            [ponum] => 43
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 2648050842ca0021b1b2545de55a73c9
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 1QhCY2dLTykafO5QThmLy4A6m
+            [securetokenid] => e4e849af1c2d08b4e5899961928e5a80
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 2990
+)
+
+2012-10-09T03:33:26+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => a0c9595727c59c0c76049c940321b6d4
+            [trxtype] => S
+            [amt] => 57.99
+            [currency] => USD
+            [invnum] => 100000044
+            [custref] => 100000044
+            [ponum] => 44
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => b4f91c452f7e835c8a7420957e8f4ff4
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 7EBnVCaUnCEaAwPOzMZ3H9Aaq
+            [securetokenid] => a0c9595727c59c0c76049c940321b6d4
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 2993
+)
+
+2012-10-09T04:02:37+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 81a6779b9b785d6587c258c8e5e537bf
+            [trxtype] => S
+            [amt] => 57.99
+            [currency] => USD
+            [invnum] => 100000045
+            [custref] => 100000045
+            [ponum] => 45
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => c4404a410b84fd3bf876f7c75308bf5d
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => Xsfx2qotgJkqKDIgFQig3fwoE
+            [securetokenid] => 81a6779b9b785d6587c258c8e5e537bf
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 2987
+)
+
+2012-10-10T02:32:02+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 98f3b1f0dad3db115556a1942e0a14c1
+            [trxtype] => S
+            [amt] => 604.99
+            [currency] => USD
+            [invnum] => 100000046
+            [custref] => 100000046
+            [ponum] => 46
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => d6e084ea234a6fd9c0addab9554b8251
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 1pP6EyLizCEaparmpfETXTwN3
+            [securetokenid] => 98f3b1f0dad3db115556a1942e0a14c1
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 2988
+)
+
+2012-10-11T01:23:29+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 4425c729e3356e86b1ae43419a84d61d
+            [trxtype] => S
+            [amt] => 1209.98
+            [currency] => USD
+            [invnum] => 100000047
+            [custref] => 100000047
+            [ponum] => 47
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 06c61a650afffc97a2a67b626c299a47
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 1FwMyqOvNm0yJ3P2R1g5zpQIY
+            [securetokenid] => 4425c729e3356e86b1ae43419a84d61d
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 2990
+)
+
+2012-10-11T01:35:56+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 255fc3cb459183ad3ce47191041ef85d
+            [trxtype] => S
+            [amt] => 1209.98
+            [currency] => USD
+            [invnum] => 100000048
+            [custref] => 100000048
+            [ponum] => 48
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 83f45ade40db34d14f3154555a1acd8e
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 1w8KaUKji2kql8BB5YJe5sg3k
+            [securetokenid] => 255fc3cb459183ad3ce47191041ef85d
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 2990
+)
+
+2012-10-11T02:33:27+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 4d834daca01f02fc2d14aa2a5a802907
+            [trxtype] => S
+            [amt] => 604.99
+            [currency] => USD
+            [invnum] => 100000049
+            [custref] => 100000049
+            [ponum] => 49
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => da3b489effc5f25c7ebbddc8c7cfdc05
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 1VAK2ggpbS0SCGJQCZay1Wgjz
+            [securetokenid] => 4d834daca01f02fc2d14aa2a5a802907
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 2993
+)
+
+2012-10-11T02:36:51+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 15fac7716cca0a2ef345c78902de2898
+            [trxtype] => S
+            [amt] => 604.99
+            [currency] => USD
+            [invnum] => 100000050
+            [custref] => 100000050
+            [ponum] => 50
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 7fdf527ea7e78dd8d5f31baa06e7bcbc
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 1bDrxvuRgT0uArglfSWQ92g3k
+            [securetokenid] => 15fac7716cca0a2ef345c78902de2898
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 13777
+)
+
+2012-10-11T03:10:43+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => e431e51620cd0eb32a7eb373e8c7e392
+            [trxtype] => S
+            [amt] => 604.99
+            [currency] => USD
+            [invnum] => 100000053
+            [custref] => 100000053
+            [ponum] => 53
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => 1a5e640362fb6bdbfbdad4468fa8198d
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 1GdOmNxm9YEyntQXGlC1hvQ5l
+            [securetokenid] => e431e51620cd0eb32a7eb373e8c7e392
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 21232
+)
+
+2012-10-12T03:18:32+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [user] => ****
+            [vendor] => giantmanager123
+            [partner] => PayPal
+            [pwd] => ****
+            [verbosity] => HIGH
+            [tender] => C
+            [cancelurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/cancelPayment
+            [errorurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [silentpost] => TRUE
+            [silentposturl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/silentPost
+            [returnurl] => http://www.giantwineandliquor.com/paypal/payflowadvanced/returnUrl
+            [template] => minLayout
+            [disablereceipt] => TRUE
+            [cscrequired] => TRUE
+            [cscedit] => TRUE
+            [emailcustomer] => TRUE
+            [urlmethod] => POST
+            [createsecuretoken] => Y
+            [securetokenid] => 954d4c2c67d117dd60faa0b450a697ee
+            [trxtype] => S
+            [amt] => 604.99
+            [currency] => USD
+            [invnum] => 100000054
+            [custref] => 100000054
+            [ponum] => 54
+            [firstname] => Neelay
+            [lastname] => Shah
+            [street] => 117 Garrison Ave
+            [city] => Jersey City
+            [state] => NJ
+            [zip] => 07306
+            [country] => US
+            [email] => nil12285@gmail.com
+            [shiptofirstname] => Neelay
+            [shiptolastname] => Shah
+            [shiptostreet] => 117 Garrison Ave
+            [shiptocity] => Jersey City
+            [shiptostate] => NJ
+            [shiptozip] => 07306
+            [shiptocountry] => US
+            [user1] => 1
+            [user2] => ab934f9b5200410ebaa47a3cc6f9d7b7
+        )
+
+    [result] => Array
+        (
+            [result] => 0
+            [securetoken] => 7i146CoPMGUyof3f9cr0aoQS9
+            [securetokenid] => 954d4c2c67d117dd60faa0b450a697ee
+            [respmsg] => Approved
+            [result_code] => 0
+        )
+
+    [__pid] => 21232
+)
+
